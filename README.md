@@ -15,11 +15,11 @@
 const Prince = {
   title: "Full-Stack Web Developer",
   company: "Founder @ M2H Web Solution",
-  skills: ["React", "Next.js", "Node.js", "MongoDB", "Tailwind", "Firebase"],
+  skills: ["HTML", "CSS", "JavaScript", "PHP", "React", "Next.js", "Node.js", "MongoDB", "Tailwind", "Firebase"],
   currentlyLearning: ["TypeScript", "Framer Motion"],
-  hobbies: ["Debugging", "Designing UI", "Reading about tech"],
-  contact: "your@email.com",
-  portfolio: "https://yourportfolio.com"
+  hobbies: ["Debugging", "Designing UI", "Reading about tech", "Gaming"],
+  contact: "m2hgamerz.prince@gmail.com",
+  portfolio: [https://m2hgamerz.vercel.app/]"
 }
 ```
 
@@ -56,7 +56,7 @@ const Prince = {
     <td width="50%">
       <h4>🌐 Portfolio Website</h4>
       <p>My personal portfolio built using React, Tailwind & Framer Motion.</p>
-      <a href="https://yourportfolio.com" target="_blank">🔗 Live Demo</a> |
+      <a href="https://m2hgamerz.vercel.app/" target="_blank">🔗 Live Demo</a> |
       <a href="https://github.com/prince-m2hgamerz/portfolio" target="_blank">📦 GitHub Repo</a>
     </td>
     <td width="50%">
@@ -88,10 +88,10 @@ const Prince = {
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:m2hgamerz.prince@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/prince-kumar-m2h" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/m2hgamerz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://m2hgamerz.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
