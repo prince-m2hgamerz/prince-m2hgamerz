@@ -19,7 +19,7 @@ const Prince = {
   currentlyLearning: ["TypeScript", "Framer Motion"],
   hobbies: ["Debugging", "Designing UI", "Reading about tech", "Gaming"],
   contact: "m2hgamerz.prince@gmail.com",
-  portfolio: [https://m2hgamerz.vercel.app/]"
+  portfolio: "[https://m2hgamerz.vercel.app/]"
 }
 ```
 
