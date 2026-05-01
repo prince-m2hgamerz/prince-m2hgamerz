@@ -85,7 +85,7 @@ Real-time video chat with no login required, shareable invite links, and low-lat
 
 ### 🌐 Portfolio Website
 Personal portfolio built with React, Tailwind CSS, and Framer Motion. The place where my work lives.  
-🔗 [m2hgamerz.vercel.app](https://m2hgamerz.vercel.app/) · [📦 Repo](https://github.com/prince-m2hgamerz/portfolio)
+🔗 [m2hgamerz.vercel.app](https://m2hio.in) · [📦 Repo](https://github.com/prince-m2hgamerz/portfolio)
 
 ---
 
