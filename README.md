@@ -9,7 +9,7 @@ const Prince = {
   stack: ["React", "Next.js", "Node.js", "MongoDB", "Tailwind", "Firebase", "PHP"],
   learning: ["TypeScript", "Framer Motion", "WebRTC"],
   contact: "m2hgamerz.prince@gmail.com",
-  portfolio: "https://m2hgamerz.vercel.app"
+  portfolio: "https://m2hio.in"
 }
 ```
 
@@ -95,7 +95,7 @@ Personal portfolio built with React, Tailwind CSS, and Framer Motion. The place 
   <a href="mailto:m2hgamerz.prince@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/prince-kumar-m2h" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/m2hgamerz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://m2hgamerz.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://m2hio.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
