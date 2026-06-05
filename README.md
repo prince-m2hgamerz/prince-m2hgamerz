@@ -56,7 +56,7 @@ const Prince = {
   learning  : ["Framer Motion", "WebRTC", "Rust", "System Design"],
   interests : ["API Architecture", "AI/LLM Tools", "Edge Computing", "Open Source"],
   contact   : "m2hgamerz.prince@gmail.com",
-  portfolio : "https://m2hio.in",
+  portfolio : "https://prince.m2hio.in",
   available : true,   // Open to freelance & collaboration
   motto     : "Self-taught. Still learning. Shipping anyway."
 }
@@ -333,7 +333,7 @@ Developer portfolio built with a focus on performance, clean motion design, and 
 - Mobile-first responsive design
 - Optimized for performance and SEO
 
-🔗 **Live:** [m2hio.in](https://m2hio.in) · [📦 Source](https://github.com/prince-m2hgamerz/portfolio)
+🔗 **Live:** [prince.m2hio.in](https://prince.m2hio.in)
 
 </td>
 </tr>
