@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Founder+%40+M2H+Web+Solution;Full-Stack+Engineer+%7C+9%2B+Languages;Shipping+Real+Products+%E2%80%94+Not+Just+Side+Projects;Open+Source+%7C+APIs+%7C+AI+Tools+%7C+Cloud)](https://m2hio.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Founder+%40+M2H+Web+Solution;Full-Stack+Engineer+%7C+9%2B+Languages;Shipping+Real+Products+%E2%80%94+Not+Just+Side+Projects;Open+Source+%7C+APIs+%7C+AI+Tools+%7C+Cloud)](https://prince.m2hio.in)
 
 <br/>
 
