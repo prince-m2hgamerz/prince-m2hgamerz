@@ -11,7 +11,7 @@
 <br/>
 
 <p>
-  <a href="https://m2hio.in">
+  <a href="https://prince.m2hio.in">
     <img src="https://img.shields.io/badge/Portfolio-m2hio.in-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" />
   </a>
   <a href="mailto:m2hgamerz.prince@gmail.com">
